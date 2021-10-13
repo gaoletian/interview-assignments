@@ -12,3 +12,13 @@
   font-size: 28px;
   font-weight: 400;
 }
+
+.carousel-item {
+  background-image: url(http://localhost:3000/static/media/tablet.dc63cfda.png);
+  background-size: cover;
+  background-origin: border-box;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  height: 100%;
+  flex: 1;
+}
